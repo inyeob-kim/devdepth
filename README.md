@@ -29,6 +29,7 @@ git branch -m master main
 # Development Resources
 * https://trello.com/en (Project Management Tool) -> Make sure to add your name and a due date when making a new card
 * https://docs.google.com/document/d/134MmpJO3CIvDpNYukts_IlSy3LWm9_-zJSPI-eJ_Myc/edit - Google Doc for the meeting minutes
+* https://slack.com/ - for the group project
 
 # [Frontend]
 
