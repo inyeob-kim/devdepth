@@ -52,7 +52,16 @@ git branch -m master main
 * Development Team
 * Developement Cost
 * Timeline(UI/UX, Frontend, Backend, Testing/launching, Finalizing/Maintenance)
-* How to use Trello
+* [How to use Trello](https://trello.com/en/guide/trello-101)
+* CI/CD
+* Environments: local - dev - staging - prod ?
+* Backend Tech Stack
+  * DB: SQL or NoSQL
+    * DB Design
+  * Architecture: MVC/microservices? Serverless?
+  * Backend Framework: Spring Boot (Java), Django (Python), Laravel (PHP), etc.
+  * Testing tool
+  * Code Quality and Security: SonarQube? 
 
 ## Frontend Structure Design
 <img width="812" alt="Screen Shot 2021-07-03 at 11 29 42 AM" src="https://user-images.githubusercontent.com/60948817/124340690-02c58600-dbf2-11eb-974c-98036d2546a5.png">
@@ -69,6 +78,11 @@ git branch -m master main
 Type "npm start" on the terminal inside the frontend directory where package.json is located.
 
 # [Backend]
+
+## Backend Resources
+* [Modern Web Application Architecture Explained: Components, Best Practices and more](https://litslink.com/blog/web-application-architecture)
+* [When to Use SQL vs. NoSQL](https://integrant.com/blog/when-to-use-sql-vs-nosql/)
+* [How to Choose the Right Backend Technology for Your App](https://www.asynclabs.co/blog/software-development/how-to-choose-the-right-backend-technology-for-your-app/)
 
 ## Function Requirement
 https://www.notion.so/StockChat-8f932b0828b34c9382bb36e43ac51715
