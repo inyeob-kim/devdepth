@@ -31,6 +31,13 @@ git branch -m master main
 * https://docs.google.com/document/d/134MmpJO3CIvDpNYukts_IlSy3LWm9_-zJSPI-eJ_Myc/edit - Google Doc for the meeting minutes
 * https://slack.com/ - for the group project
 
+# Development Timeline
+* Application planning ~ 23/01/16
+* Design ~ 23/01/31
+* Development ~ 23/06/01
+* TBD
+
+
 # [Frontend]
 
 ## Articles
