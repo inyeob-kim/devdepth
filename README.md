@@ -83,6 +83,10 @@ Type "npm start" on the terminal inside the frontend directory where package.jso
 * [Modern Web Application Architecture Explained: Components, Best Practices and more](https://litslink.com/blog/web-application-architecture)
 * [When to Use SQL vs. NoSQL](https://integrant.com/blog/when-to-use-sql-vs-nosql/)
 * [How to Choose the Right Backend Technology for Your App](https://www.asynclabs.co/blog/software-development/how-to-choose-the-right-backend-technology-for-your-app/)
+* [15 Spring Boot Best Practices to create Production grade microservices](https://www.youtube.com/watch?v=bB-xAYpeVL8&ab_channel=TechPrimers)
+* https://start.spring.io/
+* https://spring.io/guides/gs/spring-boot/
+
 
 ## Function Requirement
 https://www.notion.so/StockChat-8f932b0828b34c9382bb36e43ac51715
