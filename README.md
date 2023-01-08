@@ -1,5 +1,5 @@
-# noob programming 
-Noob programming is a world-wide developer community platform to share technology and get mentoring.
+# DevDepth
+DevDepth is a #1 Tech-related content provider platform.
 
 
 ## Github
@@ -35,7 +35,6 @@ git branch -m master main
 * Application planning ~ 23/01/16
 * Design ~ 23/01/31
 * Development ~ 23/06/01
-* TBD
 
 
 # [Frontend]
@@ -44,7 +43,7 @@ git branch -m master main
 * Github Token: https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/
 
 ## Meeting Schedule
-* Monday 10pm
+* Every Sunday 10pm
 
 ## Development Considerations
 * Tech stack
